@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sophia-Cea
-- 👀 I’m interested in Java, Python, HTML CSS JS
-- 🌱 I’m currently learning React JS and Selenium with Python
+- 👀 I’m interested in web development and game dev
+- 🌱 I’m currently learning ASP .NET 6
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: Discord Merida#8669, email sophia.cea.shell@gmail.com
 
